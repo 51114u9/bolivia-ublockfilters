@@ -28,14 +28,17 @@ Informe los problemas de anuncios olvidados o falsos positivos en el siguiente [
 
 Los filtros provistos por AdGuard, EasyList, Fanboy's, uBlock y este repositorio bloquean anuncios en:
 
+* [atb.com.bo](https://www.atb.com.bo/)
+* [boliviatv.bo](http://www.boliviatv.bo/)
 * [correodelsur.com](https://correodelsur.com/)
 * [elalteno.com.bo](http://www.elalteno.com.bo/)
 * [eldeber.com.bo](https://eldeber.com.bo/)
-* [elmundo.com.bo](https://elmundo.com.bo/)
-* [gente.com.bo](http://www.gente.com.bo/)
 * [eldiario.net](https://www.eldiario.net/)
+* [elmundo.com.bo](https://elmundo.com.bo/)
 * [elpais.bo](https://elpais.bo/)
 * [elpotosi.net](https://elpotosi.net/)
+* [erbol.com.bo](http://erbol.com.bo/)
+* [gente.com.bo](http://www.gente.com.bo/)
 * [jornada.com.bo](https://jornada.com.bo/)
 * [lapatria.bo](https://lapatria.bo/)
 * [laprensa.com.bo](http://www.laprensa.com.bo/)
