@@ -1,0 +1,27 @@
+! correodelsur.com
+correodelsur.com###fancesaPubli
+
+! eldiario.net
+eldiario.net##.publicidad
+eldiario.net###pub_1
+eldiario.net###publi_der
+eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
+
+! elpais.bo
+elpais.bo/img/banners/desktop/*.jpg$image
+elpais.bo/img/banners/desktop/*.png$image
+elpais.bo/img/banners/mobile/*.jpg$image
+elpais.bo/img/banners/mobile/*.png$image
+
+! elpotosi.net
+elpotosi.net###fancesaPubli
+
+! paginasiete.bo
+paginasiete.bo###cookies_overlay
+paginasiete.bo##.inview-bottom-left
+
+! lostiempos.com
+lostiempos.com##.ads
+lostiempos.com###takeover-desktop
+lostiempos.com###encuentralo-block
+lostiempos.com##.tags-rel
