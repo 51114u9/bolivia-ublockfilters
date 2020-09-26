@@ -16,12 +16,19 @@ elpais.bo/img/banners/mobile/*.png$image
 ! elpotosi.net
 elpotosi.net###fancesaPubli
 
-! paginasiete.bo
-paginasiete.bo###cookies_overlay
-paginasiete.bo##.inview-bottom-left
-
 ! lostiempos.com
 lostiempos.com##.ads
 lostiempos.com###takeover-desktop
 lostiempos.com###encuentralo-block
 lostiempos.com##.tags-rel
+
+! paginasiete.bo
+paginasiete.bo###cookies_overlay
+paginasiete.bo##.inview-bottom-left
+
+! reduno.com.bo
+reduno.com.bo##.publi_scroll
+
+! unitel.tv
+unitel.tv##div.row:nth-of-type(9) > .banner
+unitel.tv##.header-mundial
