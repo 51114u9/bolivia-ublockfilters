@@ -2,6 +2,13 @@
 
 Un repositorio de filtros para programas de bloqueo de anuncios (como AdGuard o uBlock Origin) que actuan sobre páginas web de Bolivia. Los filtros se actualizan constantemente. Este repositorio permite a cualquiera llamar nuestra atención sobre cualquier cosa, desde un anuncio olvidado hasta un falso positivo, ayudándonos así a modificar nuestros filtros, mejorarlos y mantenerlos actualizados.
 
+## Instalando
+
+1. Copie [este enlace](https://raw.githubusercontent.com/51114u9/bolivia-ublockfilters/master/bolivia-ublockfilters.txt)
+2. Pegue el enlace copiado en el programa de bloqueo de anuncios (en uBlock Origin utilice la opción [importar](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web) de la pestaña [Lista de Filtros](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists))
+3. Aplique los cambios
+4. Recargue las páginas web para empezar a usar los filtros
+
 ## Otros filtros
 
 Este repositorio de filtros funcionan activando otros filtros en AdGuard o uBlock Origin:
