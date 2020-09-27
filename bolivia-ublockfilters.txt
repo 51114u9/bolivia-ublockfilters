@@ -16,6 +16,14 @@ elpais.bo/img/banners/mobile/*.png$image
 ! elpotosi.net
 elpotosi.net###fancesaPubli
 
+! erbol.com.bo
+erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
+erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_1.view-erbol-publicidad-1.view
+erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_2.view-erbol-publicidad-2.view
+erbol.com.bo##.view-display-id-block_1.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
+erbol.com.bo##.view-display-id-block_2.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
+erbol.com.bo###block-simple-adsense-simple-adsense-slot7
+
 ! lostiempos.com
 lostiempos.com##.ads
 lostiempos.com###takeover-desktop
