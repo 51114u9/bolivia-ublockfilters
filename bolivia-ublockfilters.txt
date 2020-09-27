@@ -26,9 +26,10 @@ erbol.com.bo###block-simple-adsense-simple-adsense-slot7
 
 ! lostiempos.com
 lostiempos.com##.ads
+lostiempos.com##.ads-head-mob-content
+lostiempos.com##.tags-rel
 lostiempos.com###takeover-desktop
 lostiempos.com###encuentralo-block
-lostiempos.com##.tags-rel
 
 ! paginasiete.bo
 paginasiete.bo###cookies_overlay
