@@ -44,6 +44,7 @@ Los filtros provistos por AdGuard, EasyList, Fanboy's, uBlock y este repositorio
 * [laprensa.com.bo](http://www.laprensa.com.bo/)
 * [lostiempos.com](https://www.lostiempos.com/)
 * [opinion.com.bo](https://www.opinion.com.bo/)
+* [oxigeno.bo](http://oxigeno.bo/)
 * [paginasiete.bo](https://www.paginasiete.bo/)
 * [reduno.com.bo](https://www.reduno.com.bo/)
 * [unitel.tv](https://www.unitel.tv/)

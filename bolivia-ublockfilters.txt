@@ -31,6 +31,9 @@ lostiempos.com##.tags-rel
 lostiempos.com###takeover-desktop
 lostiempos.com###encuentralo-block
 
+! oxigeno.bo
+oxigeno.bo###block-block-65
+
 ! paginasiete.bo
 paginasiete.bo###cookies_overlay
 paginasiete.bo##.inview-bottom-left
