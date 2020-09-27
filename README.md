@@ -9,9 +9,15 @@ Un repositorio de filtros para programas de bloqueo de anuncios (como AdGuard o 
 3. Aplique los cambios
 4. Recargue las páginas web para empezar a usar los filtros
 
+## Protección de rastreo
+
+La protección de rastreo en Firefox protege automáticamente tu privacidad mientras navegas. Bloquea muchos de los rastreadores que te siguen en línea para recopilar información sobre tus hábitos de navegación e intereses. También incluye protecciones contra scripts dañinos, como el malware que agota la batería.
+
+Cuando visites una página web con rastreadores, aparecerá un icono de escudo en la barra de direcciones para hacerte saber que Firefox está bloqueando activamente los rastreadores de esa página. Firefox te permite cambiar tu nivel de protección, sigue la guía de [Firefox para Escritorio](https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop) o [Firefox para Android](https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-android).
+
 ## Otros filtros
 
-Este repositorio de filtros funcionan activando otros filtros en AdGuard o uBlock Origin:
+Activando otros filtros en AdGuard o uBlock Origin se asegura el bloqueo de anuncios:
 
 * Ads ([AdGuard](https://github.com/AdguardTeam/AdguardFilters), [EasyList](https://forums.lanik.us))
 * Build-in ([uBlock filters](https://github.com/uBlockOrigin/uAssets))
@@ -26,7 +32,7 @@ Informe los problemas de anuncios olvidados o falsos positivos en el siguiente [
 
 ## Páginas web revisadas
 
-Los filtros provistos por AdGuard, EasyList, Fanboy's, uBlock y este repositorio bloquean anuncios en:
+La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's, uBlock y este repositorio bloquean anuncios en:
 
 * [atb.com.bo](https://www.atb.com.bo/)
 * [boliviatv.bo](http://www.boliviatv.bo/)
