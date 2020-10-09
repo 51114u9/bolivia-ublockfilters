@@ -44,6 +44,9 @@ paginasiete.bo##.inview-bottom-left
 ! reduno.com.bo
 reduno.com.bo##.publi_scroll
 
+! rtpbolivia.com.bo
+rtpbolivia.com.bo##.EspacioPublicidad
+
 ! unitel.tv
 unitel.tv##div.row:nth-of-type(9) > .banner
 unitel.tv##.header-mundial
