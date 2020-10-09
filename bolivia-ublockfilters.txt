@@ -37,6 +37,12 @@ lostiempos.com##.tags-rel
 lostiempos.com###takeover-desktop
 lostiempos.com###encuentralo-block
 
+! noticiasfides.com
+noticiasfides.com/images/banners/*.gif$image
+noticiasfides.com/images/banners/*.jpg$image
+noticiasfides.com/images/*banner*$image
+noticiasfides.com##.bnMobC
+
 ! opinion.com.bo
 opinion.com.bo##.ads
 
