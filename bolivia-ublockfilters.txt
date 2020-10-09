@@ -31,6 +31,9 @@ lostiempos.com##.tags-rel
 lostiempos.com###takeover-desktop
 lostiempos.com###encuentralo-block
 
+! opinion.com.bo
+opinion.com.bo##.ads
+
 ! oxigeno.bo
 oxigeno.bo###block-block-65
 
