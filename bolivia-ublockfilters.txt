@@ -7,6 +7,10 @@ brujuladigital.net##.publicidad-m
 ! correodelsur.com
 correodelsur.com###fancesaPubli
 
+! eldia.com.bo
+eldia.com.bo##.publicidad_head
+eldia.com.bo##.gadsence
+
 ! eldiario.net
 eldiario.net##.publicidad
 eldiario.net###pub_1
