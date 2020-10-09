@@ -14,10 +14,13 @@ eldiario.net###publi_der
 eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
 
 ! elpais.bo
+elpais.bo/img/banners/desktop/*.gif$image
 elpais.bo/img/banners/desktop/*.jpg$image
 elpais.bo/img/banners/desktop/*.png$image
+elpais.bo/img/banners/mobile/*.gif$image
 elpais.bo/img/banners/mobile/*.jpg$image
 elpais.bo/img/banners/mobile/*.png$image
+elpais.bo##.ads-vertical-sticky-right.ads-vertical-sticky
 
 ! elpotosi.net
 elpotosi.net###fancesaPubli
