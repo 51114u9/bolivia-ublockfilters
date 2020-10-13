@@ -58,6 +58,7 @@ oxigeno.bo###block-block-65
 
 ! paginasiete.bo
 paginasiete.bo###cookies_overlay
+paginasiete.bo##.content-banner
 paginasiete.bo##.inview-bottom-left
 
 ! reduno.com.bo
