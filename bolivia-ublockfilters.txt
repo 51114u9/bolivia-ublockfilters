@@ -1,3 +1,6 @@
+! boliviaentusmanos.com
+boliviaentusmanos.com##.adds
+
 ! brujuladigital.net
 brujuladigital.net/images/banners/*.jpeg$image
 brujuladigital.net/images/banners/*.jpg$image
