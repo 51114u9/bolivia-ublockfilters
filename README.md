@@ -37,6 +37,7 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [atb.com.bo](https://www.atb.com.bo/)
 * [boliviaentusmanos.com](https://www.boliviaentusmanos.com/)
 * [boliviatv.bo](http://www.boliviatv.bo/)
+* [bolpress.com](https://www.bolpress.com/)
 * [brujuladigital.net](https://brujuladigital.net/)
 * [correodelsur.com](https://correodelsur.com/)
 * [elalteno.com.bo](http://www.elalteno.com.bo/)
