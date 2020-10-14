@@ -72,3 +72,12 @@ rtpbolivia.com.bo##.EspacioPublicidad
 ! unitel.tv
 unitel.tv##div.row:nth-of-type(9) > .banner
 unitel.tv##.header-mundial
+
+! urgente.bo
+urgente.bo/sites/default/files/banner.*.gif$image
+urgente.bo/sites/default/files/banner.*.jpg$image
+urgente.bo/sites/default/files/banner.*.jpeg$image
+urgente.bo/sites/default/files/banner.*.png$image
+urgente.bo##.header-img
+urgente.bo##.footer-anun
+urgente.bo##div.ad-image
