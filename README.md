@@ -50,6 +50,7 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [erbol.com.bo](http://erbol.com.bo/)
 * [gente.com.bo](http://www.gente.com.bo/)
 * [jornada.com.bo](https://jornada.com.bo/)
+* [lapalabradelbeni.com.bo](https://lapalabradelbeni.com.bo/)
 * [lapatria.bo](https://lapatria.bo/)
 * [laprensa.com.bo](http://www.laprensa.com.bo/)
 * [lostiempos.com](https://www.lostiempos.com/)
