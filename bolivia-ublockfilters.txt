@@ -70,9 +70,9 @@ opinion.com.bo##.ads
 oxigeno.bo###block-block-65
 
 ! paginasiete.bo
-paginasiete.bo###cookies_overlay
 paginasiete.bo##.content-banner
 paginasiete.bo##.inview-bottom-left
+paginasiete.bo###cookies_overlay
 
 ! reduno.com.bo
 reduno.com.bo##.publi_scroll
