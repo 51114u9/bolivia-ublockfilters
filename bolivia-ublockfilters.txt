@@ -8,6 +8,7 @@ brujuladigital.net##.publicidad-l
 brujuladigital.net##.publicidad-m
 
 ! correodelsur.com
+||correodelsur.com/img/advertising/*.gif$image
 correodelsur.com###fancesaPubli
 
 ! eldia.com.bo
@@ -17,10 +18,10 @@ eldia.com.bo###Publicidad_Top_Izq_B2
 eldia.com.bo###Publicidad_Superior_A
 
 ! eldiario.net
+eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
 eldiario.net##.publicidad
 eldiario.net###pub_1
 eldiario.net###publi_der
-eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
 
 ! elpais.bo
 elpais.bo/img/banners/desktop/*.gif$image
@@ -42,13 +43,16 @@ erbol.com.bo##.view-display-id-block_1.view-id-erbol_publicidad_cuadrado_1.view-
 erbol.com.bo##.view-display-id-block_2.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
 erbol.com.bo###block-simple-adsense-simple-adsense-slot7
 
-! https://lapalabradelbeni.com.bo
+! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo###MA
 lapalabradelbeni.com.bo###MB
 lapalabradelbeni.com.bo###MC
 lapalabradelbeni.com.bo###MD
 lapalabradelbeni.com.bo###ME
 lapalabradelbeni.com.bo###MF
+
+! la-razon.com
+la-razon.com##div[id^=div-gpt-ad]
 
 ! lostiempos.com
 lostiempos.com##.ads
@@ -65,11 +69,13 @@ noticiasfides.com##.bnMobC
 
 ! opinion.com.bo
 opinion.com.bo##.ads
+opinion.com.bo##.ad-slot
 
 ! oxigeno.bo
 oxigeno.bo###block-block-65
 
 ! paginasiete.bo
+paginasiete.bo##.bannerpopup
 paginasiete.bo##.content-banner
 paginasiete.bo##.inview-bottom-left
 paginasiete.bo###cookies_overlay

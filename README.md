@@ -53,6 +53,7 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [lapalabradelbeni.com.bo](https://lapalabradelbeni.com.bo/)
 * [lapatria.bo](https://lapatria.bo/)
 * [laprensa.com.bo](http://www.laprensa.com.bo/)
+* [la-razon.com](https://www.la-razon.com/)
 * [lostiempos.com](https://www.lostiempos.com/)
 * [noticiasfides.com](https://www.noticiasfides.com/)
 * [opinion.com.bo](https://www.opinion.com.bo/)
