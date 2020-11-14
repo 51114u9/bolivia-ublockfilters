@@ -33,6 +33,7 @@ elpais.bo/img/banners/mobile/*.png$image
 elpais.bo##.ads-vertical-sticky-right.ads-vertical-sticky
 
 ! elpotosi.net
+elpotosi.net/img/advertising/*.gif$image
 elpotosi.net###fancesaPubli
 
 ! erbol.com.bo
