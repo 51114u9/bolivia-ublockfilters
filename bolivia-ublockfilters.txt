@@ -53,7 +53,10 @@ lapalabradelbeni.com.bo###ME
 lapalabradelbeni.com.bo###MF
 
 ! la-razon.com
-la-razon.com##div[id^=div-gpt-ad]
+la-razon.com##.ad-left
+la-razon.com##.ad-right
+la-razon.com##.popup
+la-razon.com##div[id^="div-gpt-ad"]
 
 ! lostiempos.com
 lostiempos.com##.ads
