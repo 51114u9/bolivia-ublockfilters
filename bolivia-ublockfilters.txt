@@ -33,8 +33,12 @@ elpais.bo/img/banners/mobile/*.png$image
 elpais.bo##.ads-vertical-sticky-right.ads-vertical-sticky
 
 ! elpotosi.net
-elpotosi.net/img/advertising/*.gif$image
-elpotosi.net###fancesaPubli
+||elpotosi.net/img/advertising/*.gif$image
+||elpotosi.net/img/advertising/*.jpg$image
+||elpotosi.net/img/advertising/*.png$image
+||elpotosi.net##.ads-google
+||elpotosi.net##.adsbygoogle
+||elpotosi.net###fancesaPubli
 
 ! erbol.com.bo
 erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
