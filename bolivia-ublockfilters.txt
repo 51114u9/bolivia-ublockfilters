@@ -9,7 +9,19 @@ brujuladigital.net##.publicidad-m
 
 ! correodelsur.com
 ||correodelsur.com/img/advertising/*.gif$image
-correodelsur.com###fancesaPubli
+||correodelsur.com/img/advertising/*.jpg$image
+||correodelsur.com/img/advertising/*.png$image
+||correodelsur.com##.ads-google
+||correodelsur.com##.adsbygoogle
+||correodelsur.com###fancesaPubli
+
+! eldeber.com.bo
+||eldeber.com.bo##.ad-fullcontent
+||eldeber.com.bo##.ad-left-side
+||eldeber.com.bo##.ad-medium
+||eldeber.com.bo##.ad-right-side
+||eldeber.com.bo##.ad-top
+||eldeber.com.bo##div[id^="div-gpt-ad"]
 
 ! eldia.com.bo
 eldia.com.bo##.publicidad_head
