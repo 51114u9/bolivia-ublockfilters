@@ -83,17 +83,27 @@ noticiasfides.com/images/*banner*$image
 noticiasfides.com##.bnMobC
 
 ! opinion.com.bo
-opinion.com.bo##.ads
-opinion.com.bo##.ad-slot
+||opinion.com.bo##.ad-left
+||opinion.com.bo##.ad-right
+||opinion.com.bo##.ad-slot
+||opinion.com.bo##.ads
+||opinion.com.bo##.ads-footer
+||opinion.com.bo##.ads-header
+||opinion.com.bo##.adsbygoogle
+||opinion.com.bo##.publicidad
 
 ! oxigeno.bo
 oxigeno.bo###block-block-65
 
 ! paginasiete.bo
-paginasiete.bo##.bannerpopup
-paginasiete.bo##.content-banner
-paginasiete.bo##.inview-bottom-left
-paginasiete.bo###cookies_overlay
+||paginasiete.bo/u/banners/*.gif$image
+||paginasiete.bo##.bannerpopup
+||paginasiete.bo##.content-banner
+||paginasiete.bo##.inview-bottom-left
+||paginasiete.bo##.publicidad-top
+||paginasiete.bo##div[id^="div-gpt-ad"]
+||paginasiete.bo###cookies_overlay
+||paginasiete.bo###publicidad-top
 
 ! reduno.com.bo
 reduno.com.bo##.publi_scroll
