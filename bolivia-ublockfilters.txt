@@ -29,10 +29,12 @@
 ||eldeber.com.bo##div[id^="div-gpt-ad"]
 
 ! eldia.com.bo
-eldia.com.bo##.publicidad_head
-eldia.com.bo##.gadsence
-eldia.com.bo###Publicidad_Top_Izq_B2
-eldia.com.bo###Publicidad_Superior_A
+||eldia.com.bo##.adsbygoogle
+||eldia.com.bo##.publicidad_head
+||eldia.com.bo###Publicidad_Col_Der_C2
+||eldia.com.bo###Publicidad_TOP_Der_B1
+||eldia.com.bo###Publicidad_Top_Izq_B2
+||eldia.com.bo###Publicidad_Superior_A
 
 ! eldiario.net
 eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
