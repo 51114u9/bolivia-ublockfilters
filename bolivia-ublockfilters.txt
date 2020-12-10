@@ -117,8 +117,11 @@ noticiasfides.com##.bnMobC
 ||opinion.com.bo##.ad-right
 ||opinion.com.bo##.ad-slot
 ||opinion.com.bo##.ads
+||opinion.com.bo##.ads-break
+||opinion.com.bo##.ads-container
 ||opinion.com.bo##.ads-footer
 ||opinion.com.bo##.ads-header
+||opinion.com.bo##.ads-skyscraper-container
 ||opinion.com.bo##.adsbygoogle
 ||opinion.com.bo##.publicidad
 
