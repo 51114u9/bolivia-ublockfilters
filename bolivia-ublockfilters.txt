@@ -1,5 +1,9 @@
 ! boliviaentusmanos.com
-boliviaentusmanos.com##.adds
+||boliviaentusmanos.com##.adds
+||boliviaentusmanos.com##.adds1
+||boliviaentusmanos.com##.addsbygoogle
+||boliviaentusmanos.com##.publiads
+||boliviaentusmanos.com##.publicidad
 
 ! brujuladigital.net
 brujuladigital.net/images/banners/*.jpeg$image
