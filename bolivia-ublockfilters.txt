@@ -37,10 +37,13 @@
 ||eldia.com.bo###Publicidad_Superior_A
 
 ! eldiario.net
-eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
-eldiario.net##.publicidad
-eldiario.net###pub_1
-eldiario.net###publi_der
+||eldiario.net/imgs/DIARIO-DELIVERYFEST_320X100.gif$image
+||eldiario.net##.adsbygoogle
+||eldiario.net##.publicidad
+||eldiario.net###pub_1
+||eldiario.net###pub_sup
+||eldiario.net###publi_der
+||eldiario.net###publi_izq
 
 ! elpais.bo
 elpais.bo/img/banners/desktop/*.gif$image
