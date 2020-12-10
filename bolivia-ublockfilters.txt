@@ -20,6 +20,7 @@
 ||correodelsur.com###fancesaPubli
 
 ! eldeber.com.bo
+||eldeber.com.bo##.ad
 ||eldeber.com.bo##.ad-fullcontent
 ||eldeber.com.bo##.ad-left-side
 ||eldeber.com.bo##.ad-medium
