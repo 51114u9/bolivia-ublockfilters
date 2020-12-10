@@ -130,6 +130,8 @@ oxigeno.bo###block-block-65
 
 ! paginasiete.bo
 ||paginasiete.bo/u/banners/*.gif$image
+||paginasiete.bo##.banner_corre
+||paginasiete.bo##.banners-laterales
 ||paginasiete.bo##.bannerpopup
 ||paginasiete.bo##.content-banner
 ||paginasiete.bo##.inview-bottom-left
