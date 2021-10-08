@@ -8,14 +8,14 @@
 ! boliviaentusmanos.com
 ||boliviaentusmanos.com##.ads-center
 ||boliviaentusmanos.com##.addsbygoogle
-||boliviaentusmanos.com##.publiads
+||boliviaentusmanos.com##.pub_ads
+||boliviaentusmanos.com##.publi
 ||boliviaentusmanos.com##.publicidad
 
 ! brujuladigital.net
 ||brujuladigital.net/images/banners/*.jpeg$image
 ||brujuladigital.net/images/banners/*.jpg$image
-||brujuladigital.net##.publicidad-l
-||brujuladigital.net##.publicidad-m
+||brujuladigital.net/images/banners/*.png$image
 
 ! correodelsur.com
 ||correodelsur.com/img/advertising/*.gif$image
