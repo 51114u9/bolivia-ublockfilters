@@ -6,8 +6,7 @@
 ||atb.com.bo/js/adsModal.js$script
 
 ! boliviaentusmanos.com
-||boliviaentusmanos.com##.adds
-||boliviaentusmanos.com##.adds1
+||boliviaentusmanos.com##.ads-center
 ||boliviaentusmanos.com##.addsbygoogle
 ||boliviaentusmanos.com##.publiads
 ||boliviaentusmanos.com##.publicidad
