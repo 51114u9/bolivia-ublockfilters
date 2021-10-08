@@ -23,6 +23,7 @@
 ||correodelsur.com/img/advertising/*.png$image
 ||correodelsur.com##.ads-google
 ||correodelsur.com##.adsbygoogle
+||correodelsur.com###cbnPubli
 ||correodelsur.com###fancesaPubli
 
 ! eldeber.com.bo
