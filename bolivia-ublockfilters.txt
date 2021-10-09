@@ -5,8 +5,8 @@
 _publicidad_
 
 ! atb.com.bo
-||atb.com.bo/js/adsHome.js$script
-||atb.com.bo/js/adsModal.js$script
+atb.com.bo/js/adsHome.js$script
+atb.com.bo/js/adsModal.js$script
 
 ! boliviaentusmanos.com
 ||boliviaentusmanos.com##.ads-center
