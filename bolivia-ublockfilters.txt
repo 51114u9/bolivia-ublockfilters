@@ -16,9 +16,11 @@ boliviaentusmanos.com##.publi
 boliviaentusmanos.com##.publicidad
 
 ! brujuladigital.net
-||brujuladigital.net/images/banners/*.jpeg$image
-||brujuladigital.net/images/banners/*.jpg$image
-||brujuladigital.net/images/banners/*.png$image
+brujuladigital.net/images/banners/*.jpeg$image
+brujuladigital.net/images/banners/*.jpg$image
+brujuladigital.net/images/banners/*.png$image
+brujuladigital.net##.bnDsk
+brujuladigital.net##.publicidad-l
 
 ! correodelsur.com
 ||correodelsur.com/img/advertising/*.gif$image
