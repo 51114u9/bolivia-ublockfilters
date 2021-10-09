@@ -9,11 +9,11 @@ atb.com.bo/js/adsHome.js$script
 atb.com.bo/js/adsModal.js$script
 
 ! boliviaentusmanos.com
-||boliviaentusmanos.com##.ads-center
-||boliviaentusmanos.com##.addsbygoogle
-||boliviaentusmanos.com##.pub_ads
-||boliviaentusmanos.com##.publi
-||boliviaentusmanos.com##.publicidad
+boliviaentusmanos.com##.ads-center
+boliviaentusmanos.com##.addsbygoogle
+boliviaentusmanos.com##.pub_ads
+boliviaentusmanos.com##.publi
+boliviaentusmanos.com##.publicidad
 
 ! brujuladigital.net
 ||brujuladigital.net/images/banners/*.jpeg$image
