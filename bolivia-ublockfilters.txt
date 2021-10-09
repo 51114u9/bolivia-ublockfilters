@@ -1,5 +1,8 @@
-!general
+! general
+/advanced-ads-
+/advanced-ads/*
 /publicidad/*
+_publicidad_
 
 ! atb.com.bo
 ||atb.com.bo/js/adsHome.js$script
