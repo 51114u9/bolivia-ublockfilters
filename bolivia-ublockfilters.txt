@@ -23,6 +23,7 @@ brujuladigital.net##.bnDsk
 brujuladigital.net##.publicidad-l
 
 ! correodelsur.com
+correodelsur.com##body:style(overflow: auto !important;)
 correodelsur.com/img/advertising/*.gif$image
 correodelsur.com/img/advertising/*.jpg$image
 correodelsur.com/img/advertising/*.png$image
