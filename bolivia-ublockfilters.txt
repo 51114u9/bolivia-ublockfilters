@@ -74,12 +74,14 @@ elpais.bo##.adsbygoogle
 elpais.bo##iframe[id^="google_ads_frame"]
 
 ! elpotosi.net
-||elpotosi.net/img/advertising/*.gif$image
-||elpotosi.net/img/advertising/*.jpg$image
-||elpotosi.net/img/advertising/*.png$image
-||elpotosi.net##.ads-google
-||elpotosi.net##.adsbygoogle
-||elpotosi.net###fancesaPubli
+elpotosi.net/img/advertising/*.gif$image
+elpotosi.net/img/advertising/*.jpg$image
+elpotosi.net/img/advertising/*.png$image
+elpotosi.net##.ads-google
+elpotosi.net##.adsbygoogle
+elpotosi.net##.section-ads
+elpotosi.net###cbnPubli
+elpotosi.net###fancesaPubli
 
 ! erbol.com.bo
 erbol.com.bo##.adsbygoogle
