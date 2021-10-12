@@ -3,6 +3,7 @@
 /advanced-ads/*
 /publicidad/*
 _publicidad_
+/simpleads/*
 
 ! atb.com.bo
 atb.com.bo/js/adsHome.js$script
