@@ -65,16 +65,13 @@ eldiario.net##eldia-375070576
 elmundo.com.bo##.adcontainer.container
 
 ! elpais.bo
-||elpais.bo/img/banners/desktop/*.gif$image
-||elpais.bo/img/banners/desktop/*.jpg$image
-||elpais.bo/img/banners/desktop/*.png$image
-||elpais.bo/img/banners/mobile/*.gif$image
-||elpais.bo/img/banners/mobile/*.jpg$image
-||elpais.bo/img/banners/mobile/*.png$image
-||elpais.bo##.ads-vertical-sticky
-||elpais.bo##.ads-vertical-sticky-right
-||elpais.bo##.ads-vertical-sticky-left
-||elpais.bo##.adsbygoogle
+elpais.bo/img/banners/*/*.gif$image
+elpais.bo/img/banners/*/*.jpg$image
+elpais.bo/img/banners/*/*.peg$image
+elpais.bo/img/banners/*/*.png$image
+elpais.bo##.ads-container
+elpais.bo##.adsbygoogle
+elpais.bo##iframe[id^="google_ads_frame"]
 
 ! elpotosi.net
 ||elpotosi.net/img/advertising/*.gif$image
