@@ -84,13 +84,9 @@ elpotosi.net###cbnPubli
 elpotosi.net###fancesaPubli
 
 ! erbol.com.bo
-erbol.com.bo##.adsbygoogle
-erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
-erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_1.view-erbol-publicidad-1.view
-erbol.com.bo##.view-display-id-block.view-id-erbol_publicidad_2.view-erbol-publicidad-2.view
-erbol.com.bo##.view-display-id-block_1.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
-erbol.com.bo##.view-display-id-block_2.view-id-erbol_publicidad_cuadrado_1.view-erbol-publicidad-cuadrado-1.view
-erbol.com.bo###block-simple-adsense-simple-adsense-slot7
+||erbol.com.bo##.adsbygoogle
+||erbol.com.bo###block-simple-adsense-simple-adsense-slot7
+||erbol.com.bo##[class*="erbol-publicidad"]
 
 ! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo###MA
