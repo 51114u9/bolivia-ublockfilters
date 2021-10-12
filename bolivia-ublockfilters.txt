@@ -60,6 +60,9 @@ eldiario.net##.publicidad
 eldiario.net##iframe[id^="google_ads_frame"]
 eldiario.net##eldia-375070576
 
+! elmundo.com.bo
+elmundo.com.bo##.adcontainer.container
+
 ! elpais.bo
 ||elpais.bo/img/banners/desktop/*.gif$image
 ||elpais.bo/img/banners/desktop/*.jpg$image
