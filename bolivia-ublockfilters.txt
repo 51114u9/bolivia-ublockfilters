@@ -114,22 +114,15 @@ la-razon.com##.ad-right
 la-razon.com##[id^="div-gpt-ad"]
 
 ! lostiempos.com
-||lostiempos.com##.ads
-||lostiempos.com##.ads-300
-||lostiempos.com##.ads-320
-||lostiempos.com##.ads-728
-||lostiempos.com##.ads-970
-||lostiempos.com##.ads-block-panel-tipo-1
-||lostiempos.com##.ads-block-panel-tipo-2
-||lostiempos.com##.ads-block-panel-tipo-extedida
-||lostiempos.com##.ads-desk
-||lostiempos.com##.ads-head-mob-content
-||lostiempos.com##.ads-mob
-||lostiempos.com##.ads-top-mob
-||lostiempos.com##.views-row-ads
-||lostiempos.com##div[id^="div-gpt-ad"]
-||lostiempos.com###takeover-desktop
-||lostiempos.com###encuentralo-block
+lostiempos.com##.ads
+lostiempos.com##.ads-300
+lostiempos.com##.ads-728
+lostiempos.com##.ads-block-panel-tipo-1
+lostiempos.com##.views-row-ads
+lostiempos.com##[id^="div-gpt-ad"]
+lostiempos.com###encuentralo-block
+lostiempos.com###colorbox
+lostiempos.com###cboxOverlay
 
 ! noticiasfides.com
 noticiasfides.com/images/banners/*.gif$image
