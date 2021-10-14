@@ -98,6 +98,16 @@ jornada.com.bo###td-ad-placeholder
 ! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo##.bsaProContainerNew
 
+! lapatria.bo
+lapatria.bo##.adsbygoogle
+lapatria.bo##.td-a-rec
+lapatria.bo##.td-adspot-title
+lapatria.bo##.td-g-rec-id-custom_ad_3
+lapatria.bo##.td-ss-main-sidebar
+
+! laprensa.com.bo
+laprensa.com.bo##[id^="div-gpt-ad"]
+
 ! la-razon.com
 ||la-razon.com##.ad-left
 ||la-razon.com##.ad-right
