@@ -109,10 +109,9 @@ lapatria.bo##.td-ss-main-sidebar
 laprensa.com.bo##[id^="div-gpt-ad"]
 
 ! la-razon.com
-||la-razon.com##.ad-left
-||la-razon.com##.ad-right
-||la-razon.com##.popup
-||la-razon.com##div[id^="div-gpt-ad"]
+la-razon.com##.ad-left
+la-razon.com##.ad-right
+la-razon.com##[id^="div-gpt-ad"]
 
 ! lostiempos.com
 ||lostiempos.com##.ads
