@@ -142,7 +142,8 @@ opinion.com.bo##.adsbygoogle
 opinion.com.bo##.publicidad
 
 ! oxigeno.bo
-oxigeno.bo###block-block-65
+||oxigeno.bo##.adsbygoogle
+||oxigeno.bo###block-block-65
 
 ! paginasiete.bo
 ||paginasiete.bo/u/banners/*.gif$image
