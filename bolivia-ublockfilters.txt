@@ -127,8 +127,10 @@ lostiempos.com###cboxOverlay
 ! noticiasfides.com
 noticiasfides.com/images/banners/*.gif$image
 noticiasfides.com/images/banners/*.jpg$image
-noticiasfides.com/images/*banner*$image
+noticiasfides.com/images/banners/*.png$image
+noticiasfides.com##.adsbygoogle
 noticiasfides.com##.bnMobC
+noticiasfides.com##iframe[id^="google_ads_frame"]
 
 ! opinion.com.bo
 ||opinion.com.bo##.ad-left
