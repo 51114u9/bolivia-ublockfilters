@@ -96,12 +96,7 @@ jornada.com.bo##.adsbygoogle
 jornada.com.bo###td-ad-placeholder
 
 ! lapalabradelbeni.com.bo
-lapalabradelbeni.com.bo###MA
-lapalabradelbeni.com.bo###MB
-lapalabradelbeni.com.bo###MC
-lapalabradelbeni.com.bo###MD
-lapalabradelbeni.com.bo###ME
-lapalabradelbeni.com.bo###MF
+lapalabradelbeni.com.bo##.bsaProContainerNew
 
 ! la-razon.com
 ||la-razon.com##.ad-left
