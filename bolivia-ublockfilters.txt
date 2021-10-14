@@ -88,6 +88,13 @@ elpotosi.net###fancesaPubli
 ||erbol.com.bo###block-simple-adsense-simple-adsense-slot7
 ||erbol.com.bo##[class*="erbol-publicidad"]
 
+! gente.com.bo
+||gente.com.bo##[id^="div-gpt-ad"]
+
+! jornada.com.bo
+jornada.com.bo##.adsbygoogle
+jornada.com.bo###td-ad-placeholder
+
 ! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo###MA
 lapalabradelbeni.com.bo###MB
