@@ -163,7 +163,12 @@ www.paginasiete.bo##amp-sticky-ad
 www.paginasiete.bo###publicidad-top
 
 ! reduno.com.bo
-reduno.com.bo##.publi_scroll
+www.reduno.com.bo##.amp-unresolved
+www.reduno.com.bo##.i-amphtml-unresolved
+www.reduno.com.bo##.publi_scroll
+www.reduno.com.bo##.publicidad
+www.reduno.com.bo##amp-ad
+www.reduno.com.bo##AMP-AD
 
 ! rtpbolivia.com.bo
 rtpbolivia.com.bo##.EspacioPublicidad
