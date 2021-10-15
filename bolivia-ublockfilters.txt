@@ -135,13 +135,13 @@ www.noticiasfides.com##.bnMobC
 www.noticiasfides.com##iframe[id^="google_ads_frame"]
 
 ! opinion.com.bo
-opinion.com.bo##.ad-left
-opinion.com.bo##.ad-right
-opinion.com.bo##.ad-slot
-opinion.com.bo##.ads-footer
-opinion.com.bo##.ads-header
-opinion.com.bo##.adsbygoogle
-opinion.com.bo##.publicidad
+www.opinion.com.bo##.ad-left
+www.opinion.com.bo##.ad-right
+www.opinion.com.bo##.ad-slot
+www.opinion.com.bo##.ads-footer
+www.opinion.com.bo##.ads-header
+www.opinion.com.bo##.adsbygoogle
+www.opinion.com.bo##.publicidad
 
 ! oxigeno.bo
 ||oxigeno.bo##.adsbygoogle
