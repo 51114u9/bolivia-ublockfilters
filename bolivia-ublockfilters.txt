@@ -108,7 +108,7 @@ lapatria.bo##.td-g-rec-id-custom_ad_3
 lapatria.bo##.td-ss-main-sidebar
 
 ! laprensa.com.bo
-laprensa.com.bo##[id^="div-gpt-ad"]
+www.laprensa.com.bo##[id^="div-gpt-ad"]
 
 ! la-razon.com
 la-razon.com##.ad-left
