@@ -51,17 +51,17 @@ eldia.com.bo/archivos/comercial/*.gif$image
 eldia.com.bo###spopup
 
 ! eldiario.net
-eldiario.net##.ads-text
-eldiario.net##.ads-wrapper
-eldiario.net##.ads_code
-eldiario.net##.adsbygoogle
-eldiario.net##.advads-close-button
-eldiario.net##.jeg_ad
-eldiario.net##.jeg_ad_module
-eldiario.net##.jeg_ad_top
-eldiario.net##.publicidad
-eldiario.net##iframe[id^="google_ads_frame"]
-eldiario.net##eldia-375070576
+www.eldiario.net##.ads-text
+www.eldiario.net##.ads-wrapper
+www.eldiario.net##.ads_code
+www.eldiario.net##.adsbygoogle
+www.eldiario.net##.advads-close-button
+www.eldiario.net##.jeg_ad
+www.eldiario.net##.jeg_ad_module
+www.eldiario.net##.jeg_ad_top
+www.eldiario.net##.publicidad
+www.eldiario.net##iframe[id^="google_ads_frame"]
+www.eldiario.net##eldia-375070576
 
 ! elmundo.com.bo
 elmundo.com.bo##.adcontainer.container
