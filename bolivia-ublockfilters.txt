@@ -12,11 +12,11 @@ www.atb.com.bo/js/adsHome.js$script
 www.atb.com.bo/js/adsModal.js$script
 
 ! boliviaentusmanos.com
-boliviaentusmanos.com##.ads-center
-boliviaentusmanos.com##.addsbygoogle
-boliviaentusmanos.com##.pub_ads
-boliviaentusmanos.com##.publi
-boliviaentusmanos.com##.publicidad
+www.boliviaentusmanos.com##.ads-center
+www.boliviaentusmanos.com##.addsbygoogle
+www.boliviaentusmanos.com##.pub_ads
+www.boliviaentusmanos.com##.publi
+www.boliviaentusmanos.com##.publicidad
 
 ! brujuladigital.net
 brujuladigital.net/images/banners/*.jpeg$image
