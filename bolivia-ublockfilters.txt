@@ -148,16 +148,19 @@ www.opinion.com.bo##.publicidad
 ||oxigeno.bo###block-block-65
 
 ! paginasiete.bo
-||paginasiete.bo/u/banners/*.gif$image
-||paginasiete.bo##.banner_corre
-||paginasiete.bo##.banners-laterales
-||paginasiete.bo##.bannerpopup
-||paginasiete.bo##.content-banner
-||paginasiete.bo##.inview-bottom-left
-||paginasiete.bo##.publicidad-top
-||paginasiete.bo##div[id^="div-gpt-ad"]
-||paginasiete.bo###cookies_overlay
-||paginasiete.bo###publicidad-top
+i.ibb.co/*/Banner*.gif$image
+i.ibb.co/*/Banner*.jpg$image
+i.ibb.co/*/Banner*.png$image
+i.ibb.co/*/*Logotipo*.gif$image
+i.ibb.co/*/Cy-CO-AC*.jpg$image
+www.paginasiete.bo/u/banners/*.jpg$image
+www.paginasiete.bo##.banners-laterales
+www.paginasiete.bo##.publicidad-top
+www.paginasiete.bo##[id^="div-gpt-ad"]
+www.paginasiete.bo##amp-ad
+www.paginasiete.bo##AMP-AD
+www.paginasiete.bo##amp-sticky-ad
+www.paginasiete.bo###publicidad-top
 
 ! reduno.com.bo
 reduno.com.bo##.publi_scroll
