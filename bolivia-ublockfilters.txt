@@ -38,7 +38,7 @@ correodelsur.com###fancesaPubli
 correodelsur.com###suscripcion
 
 ! elalteno.com.bo
-||elalteno.com.bo##[id^="div-gpt-ad"]
+||www.elalteno.com.bo##[id^="div-gpt-ad"]
 
 ! eldeber.com.bo
 eldeber.com.bo##.ad-medium
