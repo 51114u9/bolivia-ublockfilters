@@ -171,11 +171,19 @@ www.reduno.com.bo##amp-ad
 www.reduno.com.bo##AMP-AD
 
 ! rtpbolivia.com.bo
-rtpbolivia.com.bo##.EspacioPublicidad
+www.rtpbolivia.com.bo##.ad-placement
+www.rtpbolivia.com.bo##.EspacioPublicidad
+www.rtpbolivia.com.bo##.td-a-rec
+www.rtpbolivia.com.bo##.td-ad-m
+www.rtpbolivia.com.bo##.td-ad-p
+www.rtpbolivia.com.bo##.td-ad-tp
+www.rtpbolivia.com.bo##.td-header-ad-wrap
 
-! unitel.tv
-unitel.tv##div.row:nth-of-type(9) > .banner
-unitel.tv##.header-mundial
+! unitel.bo
+unitel.bo##.ad-medium
+unitel.bo##.ad-top
+unitel.bo##.ad_box
+unitel.bo##[id^="div-gpt-ad"]
 
 ! urgente.bo
 urgente.bo/sites/default/files/banner.*.gif$image
