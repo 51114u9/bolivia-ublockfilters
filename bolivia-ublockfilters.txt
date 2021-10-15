@@ -127,12 +127,12 @@ www.lostiempos.com###colorbox
 www.lostiempos.com###cboxOverlay
 
 ! noticiasfides.com
-noticiasfides.com/images/banners/*.gif$image
-noticiasfides.com/images/banners/*.jpg$image
-noticiasfides.com/images/banners/*.png$image
-noticiasfides.com##.adsbygoogle
-noticiasfides.com##.bnMobC
-noticiasfides.com##iframe[id^="google_ads_frame"]
+www.noticiasfides.com/images/banners/*.gif$image
+www.noticiasfides.com/images/banners/*.jpg$image
+www.noticiasfides.com/images/banners/*.png$image
+www.noticiasfides.com##.adsbygoogle
+www.noticiasfides.com##.bnMobC
+www.noticiasfides.com##iframe[id^="google_ads_frame"]
 
 ! opinion.com.bo
 opinion.com.bo##.ad-left
