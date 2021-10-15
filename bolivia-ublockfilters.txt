@@ -116,15 +116,15 @@ www.la-razon.com##.ad-right
 www.la-razon.com##[id^="div-gpt-ad"]
 
 ! lostiempos.com
-lostiempos.com##.ads
-lostiempos.com##.ads-300
-lostiempos.com##.ads-728
-lostiempos.com##.ads-block-panel-tipo-1
-lostiempos.com##.views-row-ads
-lostiempos.com##[id^="div-gpt-ad"]
-lostiempos.com###encuentralo-block
-lostiempos.com###colorbox
-lostiempos.com###cboxOverlay
+www.lostiempos.com##.ads
+www.lostiempos.com##.ads-300
+www.lostiempos.com##.ads-728
+www.lostiempos.com##.ads-block-panel-tipo-1
+www.lostiempos.com##.views-row-ads
+www.lostiempos.com##[id^="div-gpt-ad"]
+www.lostiempos.com###encuentralo-block
+www.lostiempos.com###colorbox
+www.lostiempos.com###cboxOverlay
 
 ! noticiasfides.com
 noticiasfides.com/images/banners/*.gif$image
