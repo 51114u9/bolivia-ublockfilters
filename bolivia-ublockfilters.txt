@@ -111,9 +111,9 @@ lapatria.bo##.td-ss-main-sidebar
 www.laprensa.com.bo##[id^="div-gpt-ad"]
 
 ! la-razon.com
-la-razon.com##.ad-left
-la-razon.com##.ad-right
-la-razon.com##[id^="div-gpt-ad"]
+www.la-razon.com##.ad-left
+www.la-razon.com##.ad-right
+www.la-razon.com##[id^="div-gpt-ad"]
 
 ! lostiempos.com
 lostiempos.com##.ads
