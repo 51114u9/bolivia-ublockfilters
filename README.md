@@ -61,5 +61,5 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [paginasiete.bo](https://www.paginasiete.bo/)
 * [reduno.com.bo](https://www.reduno.com.bo/)
 * [rtpbolivia.com.bo](http://www.rtpbolivia.com.bo/)
-* [unitel.tv](https://www.unitel.tv/)
-* [urgente.bo](http://urgente.bo)
+* [unitel.bo](https://unitel.bo/)
+* [urgente.bo](http://urgente.bo/)
