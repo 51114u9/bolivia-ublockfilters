@@ -2,8 +2,10 @@
 /advanced-ads-
 /advanced-ads/*
 /publicidad/*
-_publicidad_
 /simpleads/*
+/amp-ad-
+_publicidad_
+-sticky-ad-
 
 ! atb.com.bo
 atb.com.bo/js/adsHome.js$script
