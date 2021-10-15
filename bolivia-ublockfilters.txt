@@ -8,8 +8,8 @@ _publicidad_
 -sticky-ad-
 
 ! atb.com.bo
-atb.com.bo/js/adsHome.js$script
-atb.com.bo/js/adsModal.js$script
+www.atb.com.bo/js/adsHome.js$script
+www.atb.com.bo/js/adsModal.js$script
 
 ! boliviaentusmanos.com
 boliviaentusmanos.com##.ads-center
