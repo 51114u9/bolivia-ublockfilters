@@ -20,6 +20,16 @@ www.boliviaentusmanos.com##.pub_ads
 www.boliviaentusmanos.com##.publi
 www.boliviaentusmanos.com##.publicidad
 
+! bolivision.tv.bo
+www.bolivision.tv.bo##.ad--skyscraper
+www.bolivision.tv.bo##.ad-slot
+www.bolivision.tv.bo##.adBlock
+www.bolivision.tv.bo##.b-ad
+www.bolivision.tv.bo##.c-ad
+www.bolivision.tv.bo##.rmp-ad-container
+www.bolivision.tv.bo###ad-slot-top
+www.bolivision.tv.bo##[id*="ScriptRoot"]
+
 ! brujuladigital.net
 brujuladigital.net/images/banners/*.jpeg$image
 brujuladigital.net/images/banners/*.jpg$image
