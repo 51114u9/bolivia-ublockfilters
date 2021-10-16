@@ -49,6 +49,13 @@ correodelsur.com###cbnPubli
 correodelsur.com###fancesaPubli
 correodelsur.com###suscripcion
 
+! deloscintis.com.bo
+deloscintis.com.bo##.adsbygoogle
+
+! eju.tv
+eju.tv##.adsbygoogle
+eju.tv##[id^="div-gpt-ad"]
+
 ! elalteno.com.bo
 ||www.elalteno.com.bo##[id^="div-gpt-ad"]
 
