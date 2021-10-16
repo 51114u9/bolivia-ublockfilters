@@ -1,10 +1,12 @@
 ! general
+/300x600/*
 /advanced-ads-
 /advanced-ads/*
+/amp-ad-
 /publicidad/*
 /simpleads/*
-/amp-ad-
 _publicidad_
+-publicidad-
 -sticky-ad-
 
 ! atb.com.bo
