@@ -214,6 +214,19 @@ www.rtpbolivia.com.bo##.td-ad-p
 www.rtpbolivia.com.bo##.td-ad-tp
 www.rtpbolivia.com.bo##.td-header-ad-wrap
 
+! soldepando.com
+soldepando.com##.publicidad
+
+! tunari.net
+tunari.net##.advertisement-content
+tunari.net##.advertisement-title
+tunari.net##.advertisement_300x250
+tunari.net##.advertisement_728x90
+tunari.net##.single_ad_300x250
+tunari.net##.widget_300x250_advertisement
+tunari.net##.widget_728x90_advertisement
+tunari.net##img[width="728"][height="90"]
+
 ! unitel.bo
 unitel.bo##.ad-medium
 unitel.bo##.ad-top
