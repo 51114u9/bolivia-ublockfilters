@@ -34,12 +34,26 @@ Informe los problemas de anuncios olvidados o falsos positivos en el siguiente [
 
 La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's, uBlock y este repositorio bloquean anuncios en:
 
+### Medios de comunicación
+
 * [atb.com.bo](https://www.atb.com.bo/)
-* [boliviaentusmanos.com](https://www.boliviaentusmanos.com/)
 * [boliviatv.bo](http://www.boliviatv.bo/)
+* [cadenaa.tv](http://www.cadenaa.tv/)
+* [erbol.com.bo](http://erbol.com.bo/)
+* [kawsachuncoca.com](https://kawsachuncoca.com/)
+* [redbolivision.tv.bo](https://www.redbolivision.tv.bo/)
+* [reduno.com.bo](https://www.reduno.com.bo/)
+* [rtpbolivia.com.bo](http://www.rtpbolivia.com.bo/)
+* [unitel.bo](https://unitel.bo/)
+
+### Periódicos
+
+* [abi.bo](https://www.abi.bo/)
+* [boliviaentusmanos.com](https://www.boliviaentusmanos.com/)
 * [bolpress.com](https://www.bolpress.com/)
 * [brujuladigital.net](https://brujuladigital.net/)
 * [correodelsur.com](https://correodelsur.com/)
+* [deloscintis.com.bo](https://www.deloscintis.com.bo/)
 * [elalteno.com.bo](http://www.elalteno.com.bo/)
 * [eldeber.com.bo](https://eldeber.com.bo/)
 * [eldia.com.bo](http://eldia.com.bo/)
@@ -47,19 +61,27 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [elmundo.com.bo](https://elmundo.com.bo/)
 * [elpais.bo](https://elpais.bo/)
 * [elpotosi.net](https://elpotosi.net/)
-* [erbol.com.bo](http://erbol.com.bo/)
+* [elsalar.com.bo](https://elsalar.com.bo/)
 * [gente.com.bo](http://www.gente.com.bo/)
 * [jornada.com.bo](https://jornada.com.bo/)
+* [la-razon.com](https://www.la-razon.com/)
 * [lapalabradelbeni.com.bo](https://lapalabradelbeni.com.bo/)
 * [lapatria.bo](https://lapatria.bo/)
 * [laprensa.com.bo](http://www.laprensa.com.bo/)
-* [la-razon.com](https://www.la-razon.com/)
+* [lavozbolivia.com](https://lavozbolivia.com/)
+* [leo.bo](https://leo.bo/)
 * [lostiempos.com](https://www.lostiempos.com/)
+* [money.com.bo](https://www.money.com.bo/)
+* [monteronoticias.com](https://monteronoticias.com/)
 * [noticiasfides.com](https://www.noticiasfides.com/)
 * [opinion.com.bo](https://www.opinion.com.bo/)
 * [oxigeno.bo](http://oxigeno.bo/)
 * [paginasiete.bo](https://www.paginasiete.bo/)
-* [reduno.com.bo](https://www.reduno.com.bo/)
-* [rtpbolivia.com.bo](http://www.rtpbolivia.com.bo/)
-* [unitel.bo](https://unitel.bo/)
+* [publico.bo](https://publico.bo/)
+* [soldepando.com](https://www.soldepando.com/)
 * [urgente.bo](http://urgente.bo/)
+
+### Otros
+
+* [eju.tv](https://eju.tv/)
+* [tunari.net](https://tunari.net/)
