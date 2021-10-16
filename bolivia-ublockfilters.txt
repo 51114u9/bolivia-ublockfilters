@@ -153,6 +153,14 @@ www.lostiempos.com###encuentralo-block
 www.lostiempos.com###colorbox
 www.lostiempos.com###cboxOverlay
 
+! money.com.bo
+money.com.bo##.adsbygoogle
+
+! monteronoticias.com
+||i2.wp.com/monteronoticias.com/wp-content/uploads/2021/10/Dr.-Parada.png$image
+monteronoticias.com##.adsbygoogle
+monteronoticias.com##iframe[id^="google_ads_frame"]
+
 ! noticiasfides.com
 www.noticiasfides.com/images/banners/*.gif$image
 www.noticiasfides.com/images/banners/*.jpg$image
