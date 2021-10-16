@@ -119,6 +119,11 @@ elsalar.com.bo##.banner-promotions-wrapper
 jornada.com.bo##.adsbygoogle
 jornada.com.bo###td-ad-placeholder
 
+! la-razon.com
+www.la-razon.com##.ad-left
+www.la-razon.com##.ad-right
+www.la-razon.com##[id^="div-gpt-ad"]
+
 ! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo##.bsaProContainerNew
 
@@ -132,10 +137,10 @@ lapatria.bo##.td-ss-main-sidebar
 ! laprensa.com.bo
 www.laprensa.com.bo##[id^="div-gpt-ad"]
 
-! la-razon.com
-www.la-razon.com##.ad-left
-www.la-razon.com##.ad-right
-www.la-razon.com##[id^="div-gpt-ad"]
+! leo.bo
+leo.bo/wp-content/uploads/*/banner*.jpg$image
+leo.bo##.banner-left
+leo.bo###public-right
 
 ! lostiempos.com
 www.lostiempos.com##.ads
