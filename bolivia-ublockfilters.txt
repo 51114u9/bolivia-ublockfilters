@@ -104,6 +104,9 @@ elpotosi.net##.section-ads
 elpotosi.net###cbnPubli
 elpotosi.net###fancesaPubli
 
+! elsalar.com.bo
+elsalar.com.bo##.banner-promotions-wrapper
+
 ! erbol.com.bo
 ||erbol.com.bo##.adsbygoogle
 ||erbol.com.bo###block-simple-adsense-simple-adsense-slot7
