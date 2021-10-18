@@ -57,7 +57,7 @@ eju.tv##.adsbygoogle
 eju.tv##[id^="div-gpt-ad"]
 
 ! elalteno.com.bo
-||www.elalteno.com.bo##[id^="div-gpt-ad"]
+www.elalteno.com.bo##[id^="div-gpt-ad"]
 
 ! eldeber.com.bo
 eldeber.com.bo##.ad-medium
@@ -108,12 +108,12 @@ elpotosi.net###fancesaPubli
 elsalar.com.bo##.banner-promotions-wrapper
 
 ! erbol.com.bo
-||erbol.com.bo##.adsbygoogle
-||erbol.com.bo###block-simple-adsense-simple-adsense-slot7
-||erbol.com.bo##[class*="erbol-publicidad"]
+www.erbol.com.bo##.adsbygoogle
+www.erbol.com.bo###block-simple-adsense-simple-adsense-slot7
+www.erbol.com.bo##[class*="erbol-publicidad"]
 
 ! gente.com.bo
-||www.gente.com.bo##[id^="div-gpt-ad"]
+www.gente.com.bo##[id^="div-gpt-ad"]
 
 ! jornada.com.bo
 jornada.com.bo##.adsbygoogle
@@ -157,7 +157,7 @@ www.lostiempos.com###cboxOverlay
 money.com.bo##.adsbygoogle
 
 ! monteronoticias.com
-||i2.wp.com/monteronoticias.com/wp-content/uploads/2021/10/Dr.-Parada.png$image
+i2.wp.com/monteronoticias.com/wp-content/uploads/2021/10/Dr.-Parada.png$image
 monteronoticias.com##.adsbygoogle
 monteronoticias.com##iframe[id^="google_ads_frame"]
 
@@ -179,8 +179,8 @@ www.opinion.com.bo##.adsbygoogle
 www.opinion.com.bo##.publicidad
 
 ! oxigeno.bo
-||oxigeno.bo##.adsbygoogle
-||oxigeno.bo###block-block-65
+oxigeno.bo##.adsbygoogle
+oxigeno.bo###block-block-65
 
 ! paginasiete.bo
 i.ibb.co/*/Banner*.gif$image
@@ -234,11 +234,11 @@ unitel.bo##.ad_box
 unitel.bo##[id^="div-gpt-ad"]
 
 ! urgente.bo
-||urgente.bo/sites/default/files/Banner*.gif$image
-||urgente.bo/sites/default/files/Banner*.jpg$image
-||urgente.bo/sites/default/files/Banner*.jpeg$image
-||urgente.bo/sites/default/files/Banner*.png$image
-||urgente.bo/sites/default/files/OLA.lavavajillas.jpg$image
-||urgente.bo##.ad-image
-||urgente.bo##.footer-anun
-||urgente.bo##.header-img
+urgente.bo/sites/default/files/Banner*.gif$image
+urgente.bo/sites/default/files/Banner*.jpg$image
+urgente.bo/sites/default/files/Banner*.jpeg$image
+urgente.bo/sites/default/files/Banner*.png$image
+urgente.bo/sites/default/files/OLA.lavavajillas.jpg$image
+urgente.bo##.ad-image
+urgente.bo##.footer-anun
+urgente.bo##.header-img
