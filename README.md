@@ -42,6 +42,7 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [erbol.com.bo](http://erbol.com.bo/)
 * [kawsachuncoca.com](https://kawsachuncoca.com/)
 * [redbolivision.tv.bo](https://www.redbolivision.tv.bo/)
+* [redpat.tv](https://www.redpat.tv/)
 * [reduno.com.bo](https://www.reduno.com.bo/)
 * [rtpbolivia.com.bo](http://www.rtpbolivia.com.bo/)
 * [unitel.bo](https://unitel.bo/)

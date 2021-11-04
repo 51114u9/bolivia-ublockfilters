@@ -205,6 +205,9 @@ www.paginasiete.bo##AMP-AD
 www.paginasiete.bo##amp-sticky-ad
 www.paginasiete.bo###publicidad-top
 
+! redpat.tv
+www.redpat.tv##.adsbygoogle
+
 ! reduno.com.bo
 www.reduno.com.bo##.amp-unresolved
 www.reduno.com.bo##.i-amphtml-unresolved
