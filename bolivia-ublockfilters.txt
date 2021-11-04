@@ -113,6 +113,13 @@ www.erbol.com.bo##.adsbygoogle
 www.erbol.com.bo###block-simple-adsense-simple-adsense-slot7
 www.erbol.com.bo##[class*="erbol-publicidad"]
 
+! exitonoticias.com.bo
+exitonoticias.com.bo/wp-content/uploads/2019/12/160x600Libero.jpg
+exitonoticias.com.bo
+exitonoticias.com.bo
+exitonoticias.com.bo
+exitonoticias.com.bo
+
 ! gente.com.bo
 www.gente.com.bo##[id^="div-gpt-ad"]
 

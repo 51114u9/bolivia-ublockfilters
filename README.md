@@ -81,6 +81,10 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [soldepando.com](https://www.soldepando.com/)
 * [urgente.bo](http://urgente.bo/)
 
+### Radios
+
+* [exitonoticias.com.bo](https://exitonoticias.com.bo/)
+
 ### Otros
 
 * [eju.tv](https://eju.tv/)
