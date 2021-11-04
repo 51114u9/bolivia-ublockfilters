@@ -1,5 +1,6 @@
 ! general
 /300x600/*
+/adrotate/*
 /advanced-ads-
 /advanced-ads/*
 /amp-ad-
