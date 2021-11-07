@@ -137,6 +137,7 @@ jornada.com.bo###td-ad-placeholder
 www.la-razon.com##.ad-left
 www.la-razon.com##.ad-right
 www.la-razon.com##[id^="div-gpt-ad"]
+www.la-razon.com##.genosha_ads
 
 ! lapalabradelbeni.com.bo
 lapalabradelbeni.com.bo##.bsaProContainerNew
