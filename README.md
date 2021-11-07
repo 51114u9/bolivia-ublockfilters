@@ -57,7 +57,7 @@ La protección de rastreo, los filtros provistos por AdGuard, EasyList, Fanboy's
 * [deloscintis.com.bo](https://www.deloscintis.com.bo/)
 * [elalteno.com.bo](http://www.elalteno.com.bo/)
 * [eldeber.com.bo](https://eldeber.com.bo/)
-* [eldia.com.bo](http://eldia.com.bo/)
+* [eldia.com.bo](https://www.eldia.com.bo/)
 * [eldiario.net](https://www.eldiario.net/)
 * [elmundo.com.bo](https://elmundo.com.bo/)
 * [elpais.bo](https://elpais.bo/)
