@@ -262,6 +262,10 @@ urgente.bo/sites/default/files/Banner*.jpg$image
 urgente.bo/sites/default/files/Banner*.jpeg$image
 urgente.bo/sites/default/files/Banner*.png$image
 urgente.bo/sites/default/files/OLA.lavavajillas.jpg$image
+urgente.bo/sites/default/files/urgente1000x100%281%29.png$image
+urgente.bo/sites/default/files/RESTAURANTE.WEEK_.ARTE_.jpg$image
+urgente.bo/sites/default/files/new%20releases%20%283%29.gif$image
+urgente.bo/sites/default/files/vice.com_.pandemia.gif$image
 urgente.bo##.ad-image
 urgente.bo##.footer-anun
 urgente.bo##.header-img
