@@ -172,7 +172,8 @@ www.lostiempos.com###colorbox
 www.lostiempos.com###cboxOverlay
 
 ! money.com.bo
-money.com.bo##.adsbygoogle
+www.money.com.bo/wp-content/uploads/2020/03/MONEY-1140-px-por-104-px.gif$image
+www.money.com.bo##.adsbygoogle
 
 ! monteronoticias.com
 i2.wp.com/monteronoticias.com/wp-content/uploads/2021/10/Dr.-Parada.png$image
