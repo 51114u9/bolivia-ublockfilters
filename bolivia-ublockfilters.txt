@@ -70,8 +70,15 @@ eldeber.com.bo##.OUTBRAIN
 eldeber.com.bo##[id^="div-gpt-ad"]
 
 ! eldia.com.bo
-eldia.com.bo/archivos/comercial/*.gif$image
-eldia.com.bo###spopup
+www.eldia.com.bo/archivos/comercial/*.gif$image
+www.eldia.com.bo/archivos/comercial/*.jpg$image
+www.eldia.com.bo/archivos/comercial/*.png$image
+www.eldia.com.bo/archivos/enlaces/Amas_BlackF_Eldia_960x120.gif$image
+www.eldia.com.bo/archivos/enlaces/el%20diaCHICAplaya.gif$image
+www.eldia.com.bo/archivos/enlaces/iol27042017.jpg$image
+www.eldia.com.bo/archivos/enlaces/Clasica111.gif$image
+www.eldia.com.bo/archivos/enlaces/ElDia300x250pxOk29.jpg$image
+www.eldia.com.bo###spopup
 
 ! eldiario.net
 www.eldiario.net##.ads-text
