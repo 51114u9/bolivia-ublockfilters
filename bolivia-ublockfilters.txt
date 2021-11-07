@@ -176,7 +176,8 @@ www.money.com.bo/wp-content/uploads/2020/03/MONEY-1140-px-por-104-px.gif$image
 www.money.com.bo##.adsbygoogle
 
 ! monteronoticias.com
-i2.wp.com/monteronoticias.com/wp-content/uploads/2021/10/Dr.-Parada.png$image
+i2.wp.com/monteronoticias.com/wp-content/uploads/*/Dr.-Parada.png$image
+i0.wp.com/monteronoticias.com/wp-content/uploads/*/Publi*.png$image
 monteronoticias.com##.adsbygoogle
 monteronoticias.com##iframe[id^="google_ads_frame"]
 
