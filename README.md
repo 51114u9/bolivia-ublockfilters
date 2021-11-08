@@ -19,12 +19,13 @@ Cuando visites una página web con rastreadores, aparecerá un icono de escudo e
 
 Activando otros filtros en AdGuard o uBlock Origin se asegura el bloqueo de anuncios:
 
-* Ads ([AdGuard](https://github.com/AdguardTeam/AdguardFilters), [EasyList](https://forums.lanik.us))
 * Build-in ([uBlock filters](https://github.com/uBlockOrigin/uAssets))
-* Annoyances (AdGuard, [EasyList](https://github.com/easylist/easylist), [Fanboy's](https://github.com/ryanbr/fanboy-adblock), uBlock filters)
-* Malware domains, Multipurpose
+* Ads ([AdGuard](https://github.com/AdguardTeam/AdguardFilters), [EasyList](https://forums.lanik.us/))
+* Privacy (AdGuard, [EasyPrivacy](https://forums.lanik.us/))
+* Malware domains ([Online Malicious Filter](https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist), [Pishing Filter](https://gitlab.com/curben/phishing-filter#phishing-url-blocklist))
+* Annoyances (AdGuard, EasyList, [Fanboy's](https://forums.lanik.us/)), uBlock filters)
+* Multipurpose
 * Regional, languages (AdGuard Spanish, EasyList Spanish)
-* Privacy (AdGuard, EasyList, Fanboy's)
 
 ## Contribuyendo
 
