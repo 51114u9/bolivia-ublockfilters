@@ -170,6 +170,7 @@ www.lostiempos.com##[id^="div-gpt-ad"]
 www.lostiempos.com###encuentralo-block
 www.lostiempos.com###colorbox
 www.lostiempos.com###cboxOverlay
+www.lostiempos.com###takeover-desktop-counter
 
 ! money.com.bo
 www.money.com.bo/wp-content/uploads/2020/03/MONEY-1140-px-por-104-px.gif$image
